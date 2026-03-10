@@ -24,7 +24,7 @@ A premium mindfulness and meditation app built with Flutter that helps users rel
 
 ## 📱 Screenshots
 
-[Add screenshots here]
+screenshts added in assets image file
 
 ## 🚀 Getting Started
 
@@ -38,7 +38,7 @@ A premium mindfulness and meditation app built with Flutter that helps users rel
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/arvyax_assignment.git
+git clone https://github.com/ArpitaRoul-2024/arvyax_assignment/blob/main/README.md
 cd arvyax_assignment
 ```
 
