@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "focus",
+    "durationMinutes": 3,
+    "description": "Gentle forest sounds with soft wind and distant birds, perfect for deep concentration. The subtle rustling of leaves creates a natural white noise that enhances focus without distraction.",
+    "imageUrl": "assets/gifs/forest.gif",
+    "sensoryChips": ["Breeze", "Birds", "Soft Light", "Forest Floor"],
+    "audioAssetPath": "audio/forest_focus.mp3"
+  },
+  {
+    "id": "2",
+    "title": "Ocean Calm",
+    "tag": "calm",
+    "durationMinutes": 5,
+    "description": "Rhythmic waves on a peaceful shore, helping you find your natural calm. The ebb and flow of the tide mirrors your breath, guiding you into a state of deep relaxation.",
+    "imageUrl": "assets/gifs/island.gif",
+    "sensoryChips": ["Waves", "Mist", "Breeze", "Salt Air"],
+    "audioAssetPath": "audio/ocean_calm.mp3"
+  },
+  {
+    "id": "3",
+    "title": "Deep Sleep",
+    "tag": "sleep",
+    "durationMinutes": 10,
+    "description": "Low-frequency ambient sounds designed to guide you into deep rest. The gentle hum and binaural beats help quiet the mind and prepare your body for rejuvenating sleep.",
+    "imageUrl": "assets/gifs/sleep.gif",
+    "sensoryChips": ["Binaural", "Deep Bass", "Warm Light", "Starry Sky"],
+    "audioAssetPath": "audio/deep_sleep.mp3"
+  },
+  {
+    "id": "4",
+    "title": "Morning Reset",
+    "tag": "reset",
+    "durationMinutes": 2,
+    "description": "Fresh morning energy with gentle chimes and soft light. Wake up your senses and set a positive intention for the day ahead with this uplifting soundscape.",
+    "imageUrl": "assets/gifs/alarm-clock.gif",
+    "sensoryChips": ["Chimes", "Warm Light", "Breeze", "Morning Dew"],
+    "audioAssetPath": "audio/morning_reset.mp3"
+  },
+  {
+    "id": "5",
+    "title": "Rainy Focus",
+    "tag": "focus",
+    "durationMinutes": 4,
+    "description": "Steady rain on leaves, creating the perfect acoustic backdrop for work. The consistent patter of raindrops masks distracting noises and helps maintain deep concentration.",
+    "imageUrl": "assets/gifs/rain.gif",
+    "sensoryChips": ["Soft Rain", "Mist", "Warm Light", "Thunder (distant)"],
+    "audioAssetPath": "audio/rainy_focus.mp3"
+  },
+  {
+    "id": "6",
+    "title": "Zen Garden",
+    "tag": "calm",
+    "durationMinutes": 3,
+    "description": "Japanese garden sounds with water features and gentle wind. Find inner peace as you listen to the trickling water and bamboo wind chimes in this meditative space.",
+    "imageUrl": "assets/gifs/growing-plant.gif",
+    "sensoryChips": ["Breeze", "Water", "Warm Light", "Bamboo"],
+    "audioAssetPath": "audio/zen_garden.mp3"
+  },
+  {
+    "id": "7",
+    "title": "Mountain Peak",
+    "tag": "focus",
+    "durationMinutes": 4,
+    "description": "Crisp mountain air and distant eagle calls. Experience the clarity and openness of high altitudes, perfect for creative thinking and problem-solving.",
+    "imageUrl": "assets/gifs/mountain.gif",
+    "sensoryChips": ["Wind", "Eagles", "Crisp Air", "Distant Echo"],
+    "audioAssetPath": "audio/mountain_peak.mp3"
+  }
+
+]
