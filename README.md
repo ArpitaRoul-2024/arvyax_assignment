@@ -286,8 +286,6 @@ This project is created for ArvyaX Flutter Developer Assignment.
 
 ## 👨‍💻 Author
 
-[Your Name]
-
----
+ Arpita Roul
 
 **Built with ❤️ using Flutter**
